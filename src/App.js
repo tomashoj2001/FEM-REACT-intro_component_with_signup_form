@@ -11,9 +11,9 @@ function App() {
           <p className="paragraph">See how experienced developers solve problems in real-time. Watching scripted tutorials is great, but understanding how developers think is invaluable.</p>
         </header>
         <section>
-          <p className="trial">
+          <h2 className="trial">
             <span>Try it free 7 days</span> then $20/mo. thereafter
-          </p>
+          </h2>
           <Form />
         </section>
       </main>
