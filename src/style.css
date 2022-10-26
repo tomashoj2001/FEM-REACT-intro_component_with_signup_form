@@ -40,7 +40,7 @@ main {
 }
 
 .trial {
-  font-size: 1rem;
+  font-size: 1.1rem;
   background-color: var(--Accent-Blue);
   padding: 1rem 5rem;
   border-radius: .5rem;
